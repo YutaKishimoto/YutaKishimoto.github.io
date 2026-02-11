@@ -14,6 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: YutaKishimoto
+url: "https://yutakishimoto.github.io"
+baseurl: ""
+
 email: k.yuta38@gmail.com
 description: works
 twitter_username: yuta_ksmt
