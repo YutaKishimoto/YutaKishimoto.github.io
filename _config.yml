@@ -104,6 +104,14 @@ defaults:
       layout: single
       author_profile: true
 
+collections:
+  albums:
+    output: true
+    permalink: /music/:project/albums/:title/
+  songs:
+    output: true
+    permalink: /music/:project/songs/:title/
+
 category_archive:
   type: liquid
   path: /categories/

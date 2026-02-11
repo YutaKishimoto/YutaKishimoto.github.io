@@ -5,7 +5,7 @@ parmalink: /
 ---
 
 # Music
-- [YutaKishimoto](/music/yutakishimoto/)
+<!-- - [YutaKishimoto](/music/yutakishimoto/) -->
 - [L-tone](/music/ltone/)
-- [the Gears / unoscillator](/music/gears/)
-- [Others](/music/others/)
+<!-- - [the Gears / unoscillator](/music/gears/) -->
+<!-- - [Others](/music/others/) -->
