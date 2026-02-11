@@ -18,7 +18,7 @@ email: k.yuta38@gmail.com
 description: works
 twitter_username: yuta_ksmt
 github_username: YutaKishimoto
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
@@ -59,18 +59,15 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "music"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/yuta_ksmt"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@yutakishimoto"
+    - label: "more links"
+      icon: "fab fa-fw fa-link"
+      url: "https://lit.link/en/YutaKishimoto"
 
 footer:
   links:
@@ -78,11 +75,11 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@yutakishimoto"
+    - label: "more links"
+      icon: "fab fa-fw fa-link"
+      url: "https://lit.link/en/YutaKishimoto"
 
 defaults:
   # _posts
