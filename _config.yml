@@ -65,11 +65,11 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/yuta_ksmt"
-    - label: "Youtube"
+    - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@yutakishimoto"
     - label: "more links"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://lit.link/en/YutaKishimoto"
 
 footer:
@@ -77,11 +77,11 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@yutakishimoto"
     - label: "more links"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://lit.link/en/YutaKishimoto"
 
 defaults:
