@@ -84,6 +84,13 @@ collections:
   mycollection:
     output: true
     permalink: /:collection/:path/
+  albums:
+    output: true
+    permalink: /Music/:collection/:path/
+    sort_by: album_id
+  songs:
+    output: true
+    permalink: /Music/:collection/:path/
 
 category_archive:
   type: liquid
