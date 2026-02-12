@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Yuta Kishimoto"
 permalink: /Music/YutaKishimoto/
 ---

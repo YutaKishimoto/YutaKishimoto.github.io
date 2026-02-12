@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "L-tone"
 permalink: /Music/L-tone/
 ---
