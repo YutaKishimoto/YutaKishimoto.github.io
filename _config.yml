@@ -85,6 +85,8 @@ collections:
   songs:
     output: true
     permalink: /music/:project/songs/:title/
+  collectionTest:
+    output: true
 
 category_archive:
   type: liquid
