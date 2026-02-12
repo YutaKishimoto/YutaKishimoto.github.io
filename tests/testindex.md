@@ -3,5 +3,5 @@ permalink: /test/
 ---
 
 {% for item in site.mycollection %}
-- ID: {{ item.id }}, Name:{{ item.name }}
+- item_ID: {{ item.item_id }}, Name:[{{ item.name }}]({{ item.url }}), URL:{{ item. url }}, ID: {{ item.id }}
 {% endfor %}
