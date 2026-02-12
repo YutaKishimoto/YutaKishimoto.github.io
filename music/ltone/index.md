@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "L-tone"
 permalink: /music/ltone/
 ---
