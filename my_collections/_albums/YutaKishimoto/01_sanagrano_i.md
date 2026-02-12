@@ -1,8 +1,8 @@
 ---
 album_id: "01"
-catalog_number: "LTNE-0001"
-title: "SOCIAL PARANOIA"
-project: "L-tone"
+catalog_number: "-"
+title: "sanagrano i"
+project: "YutaKishimoto"
 release_date: 9999-01-01
 album_art: "/assets/images/album_covers/social_paranoia.jpg"
 ---

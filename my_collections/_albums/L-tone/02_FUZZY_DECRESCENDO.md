@@ -4,4 +4,5 @@ catalog_number: "LTNE-0002"
 title: "FUZZY DECRESCENDO"
 project: "L-tone"
 release_date: 9999-01-01
+album_art: "/assets/images/album_covers/social_paranoia.jpg"
 ---
