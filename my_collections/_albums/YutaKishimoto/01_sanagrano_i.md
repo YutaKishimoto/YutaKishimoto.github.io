@@ -1,6 +1,5 @@
 ---
 album_id: "01"
-catalog_number: "-"
 title: "sanagrano i"
 project: "YutaKishimoto"
 release_date: 9999-01-01
