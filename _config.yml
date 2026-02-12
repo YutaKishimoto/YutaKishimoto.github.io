@@ -78,6 +78,8 @@ defaults:
       layout: single
       author_profile: true
 
+collections_dir: my_collections
+
 collections:
   mycollection:
     output: true
