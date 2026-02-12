@@ -79,13 +79,7 @@ defaults:
       author_profile: true
 
 collections:
-  albums:
-    output: true
-    permalink: /music/:project/albums/:title/
-  songs:
-    output: true
-    permalink: /music/:project/songs/:title/
-  collectionTest:
+  mycollection:
     output: true
 
 category_archive:
